@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Conrado</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 💬 Ask me about **HTML,CSS,SASS ,bootstrap, JS and React**
+- 💬 Ask me about **HTML,CSS,SASS ,Bootstrap 5,Tailwind JS and React**
 
 - 📫 How to reach me **conradojuliosisnero@gmail.com**
 
