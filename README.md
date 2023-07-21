@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,7 +37,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/conradojulio17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -59,5 +59,9 @@
 ###
 
 <p align="left">I am from Cartagena Colombia<br>- 🔭 Work as a computer programmer<br>- 📚 I am currently learning java script and react<br>- ⚡ In my free time I create personal projects with the technologies I use and learn</p>
+
+###
+
+<p align="left">Here ↪️ you can see my portfolio<br>https://conradojuliosisnero.github.io/Portafolio/</p>
 
 ###
