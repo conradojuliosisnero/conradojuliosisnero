@@ -61,7 +61,3 @@
 <p align="left">I am from Cartagena Colombia<br>- 🔭 Work as a computer programmer<br>- 📚 I am currently learning java script and react<br>- ⚡ In my free time I create personal projects with the technologies I use and learn</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/conradojuliosisnero/conradojuliosisnero/output/snake.svg" alt="Snake animation" />
-
-###
