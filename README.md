@@ -62,6 +62,4 @@
 
 ###
 
-<p align="left">Here ↪️ you can see my portfolio<br>https://conradojuliosisnero.github.io/Portafolio/</p>
-
 ###
