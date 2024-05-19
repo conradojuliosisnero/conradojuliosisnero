@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Versoft<br><br>🌱 I’m currently learning Netx.js,Python and React Native<br><br>👨‍💻 All of my projects are available at https://porfolio-gules-six.vercel.app/Projects<br><br>💬 Ask me about React and JavaScript<br><br>📫 How to reach me conradojuliosisnero@gmail.com
+🔭 I’m currently working on Versoft<br><br>🌱 I’m currently learning Netx.js,Python and React Native<br><br>👨‍💻 All of my projects are available at [Porfolio](https://conradojuliosisnero.netlify.app/)<br><br>💬 Ask me about React and JavaScript<br><br>📫 How to reach me conradojuliosisnero@gmail.com
 
 
 ## 🌐 Socials:
