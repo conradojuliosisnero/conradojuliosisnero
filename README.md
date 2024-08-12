@@ -7,7 +7,7 @@ Frontend web Developer
 I am a 20-year-old Colombian Frontend Developer with one year of experience in the field. I consider myself a proactive and enthusiastic professional, always eager to learn and grow. My skills are centered around HTML, CSS, Sass, Tailwind, BoostStrap, JavaScript, React, and I am familiar with popular frameworks like NextJs and Astro. I am excited to continue expanding my knowledge and contributing to the world of Frontend Development.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [Mi Porfolio](https://porfoliosite.netlify.app/)
+* 🖥️  See my portfolio at [Mi Porfolio](https://conradojuliosisneroporfolio.netlify.app/)
 * ✉️  You can contact me at [conradojuliosisnero@gmail.com](mailto:conradojuliosisnero@gmail.com)
 * 🧠  I'm learning NextJs and Python
 * 🤝  I'm open to collaborating on Fronted Projects
