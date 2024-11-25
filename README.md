@@ -1,20 +1,38 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julio Cesar
 ===================================================================================================================================
 
-Frontend web Developer
+## Frontend Developer | Web Enthusiast | Innovator
 ----------------------
+### 👨‍💻 Professional Profile
+A passionate 21-year-old Frontend Developer from Colombia with 3 years of professional experience, dedicated to crafting innovative and responsive web interfaces.
 
-I am a 21-year-old Colombian Frontend Developer with 3 year of experience in the field. I consider myself a proactive and enthusiastic professional, always eager to learn and grow. My skills are centered around HTML, CSS, Sass, Tailwind, BoostStrap, JavaScript, React,NextJs, and I am familiar with popular frameworks like Astro. I am excited to continue expanding my knowledge and contributing to the world of Frontend Development.
+### 🛠 Tech Stack
+- **Languages & Styling**: HTML5, CSS3, Sass
+- **Frameworks & Libraries**: Tailwind CSS, Bootstrap
+- **JavaScript Ecosystem**: JavaScript (ES6+), React, Next.js
+- **Additional Technologies**: Astro
 
-* 🌍  I'm based in Colombia
+### 🌱 Professional Philosophy
+Driven by curiosity and a continuous learning mindset, I'm committed to pushing the boundaries of web development and creating seamless, user-centric digital experiences.
+
+### 🔍 Interests
+- Cutting-edge web technologies
+- Responsive design
+- Performance optimization
+- Innovative frontend solutions
+
+### 📬 Let's Connect
+Always open to collaboration and exciting frontend challenges!
 * 🖥️  See my portfolio at [Mi Porfolio](https://conradojulioporfolio.netlify.app/)
 * ✉️  You can contact me at [conradojuliosisnero@gmail.com](mailto:conradojuliosisnero@gmail.com)
+------------------------------------------------------------------------------------------------
+* 🌍  I'm based in Colombia
 * 🧠  I'm learning NodeJs 
 * 🤝  I'm open to collaborating on Fronted Projects
-
+------------------------------------------------------------------------------------------------
 <a href="https://www.github.com/conradojuliosisnero" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/conradojuliosisnero?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
-
+------------------------------------------------------------------------------------------------
 ### Skills
 **I have skills and knowledge in:**
 
