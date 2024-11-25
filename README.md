@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julio Cesar
 ===================================================================================================================================
 
-## Frontend Developer | Web Enthusiast | Innovator
-----------------------
 ### 👨‍💻 Professional Profile
 A passionate 21-year-old Frontend Developer from Colombia with 3 years of professional experience, dedicated to crafting innovative and responsive web interfaces.
 
