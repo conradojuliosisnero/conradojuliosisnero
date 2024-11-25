@@ -9,7 +9,7 @@ I am a 21-year-old Colombian Frontend Developer with 3 year of experience in the
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [Mi Porfolio](https://conradojulioporfolio.netlify.app/)
 * ✉️  You can contact me at [conradojuliosisnero@gmail.com](mailto:conradojuliosisnero@gmail.com)
-* 🧠  I'm learning NextJs and Python
+* 🧠  I'm learning NodeJs 
 * 🤝  I'm open to collaborating on Fronted Projects
 
 <a href="https://www.github.com/conradojuliosisnero" target="_blank" rel="noreferrer"><img
