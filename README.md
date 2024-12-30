@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 ### 👨‍💻 Professional Profile
-A passionate 21-year-old Frontend Developer from Colombia with 3 years of professional experience, dedicated to crafting innovative and responsive web interfaces.
+A passionate Frontend Developer from Colombia with 3 years of professional experience, dedicated to crafting innovative and responsive web interfaces.
 
 ### 🛠 Tech Stack
 - **Languages & Styling**: HTML5, CSS3, Sass
