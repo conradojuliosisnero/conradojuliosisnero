@@ -5,10 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Frontend Developer from Colombia with 3 years of professional experience, dedicated to crafting innovative and responsive web interfaces.
 
 ### 🛠 Tech Stack
-- **Languages & Styling**: HTML5, CSS3, Sass
-- **Frameworks & Libraries**: Tailwind CSS, Bootstrap
-- **JavaScript Ecosystem**: JavaScript (ES6+), React, Next.js
-- **Additional Technologies**: Astro
+- **Languages & Styling**: HTML5, CSS3, Sass, Css-Modules
+- **Frameworks & Libraries**: Tailwind CSS, Bootstrap, Antd, MaterialUI,ChadCn
+- **JavaScript Ecosystem**: JavaScript (ES6+), React, Next.js, Astro
+- **Additional Technologies**: JWT, Linux, Git, Python, FastApi
 
 ### 🌱 Professional Philosophy
 Driven by curiosity and a continuous learning mindset, I'm committed to pushing the boundaries of web development and creating seamless, user-centric digital experiences.
